@@ -4,7 +4,7 @@ import os, sys
 
 exec(open("image_tools/version.py").read())
 
-github_url = "https://github.com/amirhamiri"
+github_url = "https://github.com/SirBruin"
 package_name = "python-image-tools"
 package_url = "{}/{}".format(github_url, package_name)
 package_path = os.path.abspath(os.path.dirname(__file__))
@@ -27,8 +27,8 @@ setup(
     description="python-image-tools is a python package for working with images",
     long_description=long_description,
     long_description_content_type=long_description_content_type,
-    author="Amirhossein Amiri",
-    author_email="amirhamiri74@gmail.com",
+    author="Ilia Sayary",
+    author_email="sayaryilia@gmail.com",
     url=package_url,
     packages=find_packages(),
     download_url="{}/archive/{}.tar.gz".format(package_url, __version__),
