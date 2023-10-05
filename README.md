@@ -53,4 +53,4 @@ img.rename_image('test')
 - The class will overwrite the original image file, so make sure to save a copy of the original image before using the class.
 
 ### Support
-If you have any issues or questions, please don't hesitate to reach out to us at amirhamiri74@gmail.com.
+If you have any issues or questions, please don't hesitate to reach out to us at sayaryilia@gmail.com.
